@@ -35,7 +35,10 @@ footer, header, hgroup, menu, nav, section {
 	display: block;}
 
 :root {
-	--darkmode-background: ;
+	--darkmode-background: #030637;
+	--darkmode-centers: #3C0753;
+	--darkmode-borders: #720455;
+	--darkmode-hovers: #910A67;
 }
 
 body {
