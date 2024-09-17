@@ -5,6 +5,11 @@
 	Future Imperfect by HTML5 UP
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+	FOR DARK MODE: 
+		https://m2.material.io/design/color/dark-theme.html
+		https://colorhunt.co/palette/0306373c0753720455910a67
+		https://colorhunt.co/palette/0b244719376d576cbca5d7e8
+		https://colorhunt.co/palette/0a26471442722052952c74b3
 */
 
 html, body, div, span, applet, object,
@@ -28,6 +33,10 @@ section, summary, time, mark, audio, video {
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
+
+:root {
+	--darkmode-background: ;
+}
 
 body {
 	line-height: 1;
